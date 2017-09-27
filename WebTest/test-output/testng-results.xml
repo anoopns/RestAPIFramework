@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34352" started-at="2017-09-27T17:24:46Z" finished-at="2017-09-27T17:25:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34352" started-at="2017-09-27T17:24:46Z" finished-at="2017-09-27T17:25:20Z">
+      <class name="com.guitest.guiTest">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.guitest.guiTest@17fd0e6]" name="setUpBeforeClass" is-config="true" duration-ms="23727" started-at="2017-09-28T03:24:46Z" finished-at="2017-09-28T03:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="flightBooking()[pri:0, instance:com.guitest.guiTest@17fd0e6]" name="flightBooking" duration-ms="9111" started-at="2017-09-28T03:25:10Z" finished-at="2017-09-28T03:25:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightBooking -->
+        <test-method status="PASS" signature="tearDownAfterClass()[pri:0, instance:com.guitest.guiTest@17fd0e6]" name="tearDownAfterClass" is-config="true" duration-ms="1464" started-at="2017-09-28T03:25:19Z" finished-at="2017-09-28T03:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterClass -->
+      </class> <!-- com.guitest.guiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

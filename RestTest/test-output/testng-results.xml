@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2995" started-at="2017-09-27T14:58:13Z" finished-at="2017-09-27T14:58:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2995" started-at="2017-09-27T14:58:13Z" finished-at="2017-09-27T14:58:16Z">
+      <class name="rest.test.RestTest">
+        <test-method status="PASS" signature="testGet()[pri:0, instance:rest.test.RestTest@1774679]" name="testGet" duration-ms="2594" started-at="2017-09-28T00:58:14Z" finished-at="2017-09-28T00:58:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGet -->
+        <test-method status="PASS" signature="testPost()[pri:0, instance:rest.test.RestTest@1774679]" name="testPost" duration-ms="351" started-at="2017-09-28T00:58:16Z" finished-at="2017-09-28T00:58:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPost -->
+      </class> <!-- rest.test.RestTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
