@@ -1,0 +1,21 @@
+{
+
+"testGet" : [
+{
+	"testScenario" : "Testing GET method",
+	"queryParamKey":"test",
+	"queryParamValue": "123",
+	"httpResponse": "200",
+	"host":"postman-echo.com",
+	"url":"https://postman-echo.com/get?test=123"
+	
+}
+],
+
+"testPost" : [
+{
+	"testScenario": "Testing POST method"
+}
+]
+
+}
